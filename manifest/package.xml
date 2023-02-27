@@ -1,0 +1,19 @@
+
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+	<types>
+		<members>*</members>
+		<name>ExperienceBundle</name>
+	</types>
+	<types>
+		<members>External_Flow</members>
+		<name>Flow</name>
+	</types>
+	<types>
+		<members>displayTermsAndConditions</members>
+		<members>termsAndConditionsCheckbox</members>
+		<members>termsandconditions</members>
+		<name>LightningComponentBundle</name>
+	</types>
+	<version>55.0</version>
+</Package>
